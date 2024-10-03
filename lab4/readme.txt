@@ -1,0 +1,1 @@
+A função de hash utilizada foi baseada no Hash polinomial, e a resolução de conflitos, com o auxílio de encadeamento (chaining).
